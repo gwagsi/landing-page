@@ -1,0 +1,22 @@
+
+.header_list{
+    list-style-type: none;
+    overflow: hidden;
+    height: 40px;
+}
+li{
+    float: right;
+    padding: 4px;
+    font-size: large;
+    color: aliceblue;
+}
+.item{
+    float: left;
+    
+}
+.image{
+    height: 30px;
+}
+*{
+    background-color: #1F2937;
+}
