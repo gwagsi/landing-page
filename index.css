@@ -6,9 +6,10 @@
 }
 li{
     float: right;
-    padding: 4px;
     font-size: large;
     color: aliceblue;
+    margin: 5px;
+    border-style: double;
 }
 .item{
     float: left;
